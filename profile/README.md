@@ -2,7 +2,7 @@
 
 Built for players who want surgical accuracy and repeatable aiming performance, **Marvel Rival Aimbot Pro** is an overlay-driven utility that provides configurable aim smoothing, FOV targeting, and recoil compensation — all accessible via an in-game overlay and hotkeys. Use it to test reaction windows, practice tracking, and prototype aiming configs in private play.
 
-
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)]()
 ---
 
 ## ⚙️ Overview
